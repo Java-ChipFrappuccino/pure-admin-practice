@@ -30,14 +30,14 @@ defineOptions({
     <el-space wrap>
       <el-button
         type="info"
-        @click="message('Info类型消息', { customClass: 'el' })"
+        @click="message('Info', { customClass: 'el' })"
       >
         Info
       </el-button>
       <el-button
         type="success"
         @click="
-          message('Success类型消息', { customClass: 'el', type: 'success' })
+          message('Success', { customClass: 'el', type: 'success' })
         "
       >
         Success
@@ -45,14 +45,14 @@ defineOptions({
       <el-button
         type="warning"
         @click="
-          message('Warning类型消息', { customClass: 'el', type: 'warning' })
+          message('Warning', { customClass: 'el', type: 'warning' })
         "
       >
         Warning
       </el-button>
       <el-button
         type="danger"
-        @click="message('Error类型消息', { customClass: 'el', type: 'error' })"
+        @click="message('Error', { customClass: 'el', type: 'error' })"
       >
         Error
       </el-button>

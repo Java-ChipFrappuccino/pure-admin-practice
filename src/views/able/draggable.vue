@@ -154,8 +154,8 @@ onMounted(() => {
 /* grid列表拖拽 */
 .grid-container {
   display: grid;
-  grid-template-rows: 33.3% 33.3% 33.3%;
-  grid-template-columns: 33.3% 33.3% 33.3%;
+  grid-template-rows: auto auto auto;
+  grid-template-columns: auto auto auto;
 }
 
 .item-single {

@@ -29,7 +29,8 @@ const {
   getDropdownItemClass
 } = useNav();
 
-const { t, locale, translationCh, translationEn } = useTranslationLang();
+const { t, locale, translationCh, translationEn, translationKo } =
+  useTranslationLang();
 </script>
 
 <template>
@@ -83,7 +84,7 @@ const { t, locale, translationCh, translationEn } = useTranslationLang();
             <el-dropdown-item
               :style="getDropdownItemStyle(locale, 'ko')"
               :class="['dark:!text-white', getDropdownItemClass(locale, 'ko')]"
-              @click="translationCh"
+              @click="translationKo"
             >
               <IconifyIconOffline
                 v-show="locale === 'ko'"

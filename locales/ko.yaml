@@ -1,0 +1,241 @@
+buttons:
+  pureAccountSettings: 계정 설정
+  pureLoginOut: 로그아웃
+  pureLogin: 로그인
+  pureOpenSystemSet: 시스템 설정 열기
+  pureReload: 새로고침
+  pureCloseCurrentTab: 현재 탭 닫기
+  pureCloseLeftTabs: 왼쪽 탭 닫기
+  pureCloseRightTabs: 오른쪽 탭 닫기
+  pureCloseOtherTabs: 다른 탭 닫기
+  pureCloseAllTabs: 모든 탭 닫기
+  pureContentFullScreen: 콘텐츠 전체 화면
+  pureContentExitFullScreen: 콘텐츠 전체 화면 종료
+  pureClickCollapse: 축소
+  pureClickExpand: 확장
+  pureConfirm: 확인
+  pureSwitch: 전환
+  pureClose: 닫기
+  pureBackTop: 맨 위로
+  pureOpenText: 열기
+  pureCloseText: 닫기
+search:
+  pureTotal: 총합
+  pureHistory: 기록
+  pureCollect: 수집
+  pureDragSort: (드래그 정렬)
+  pureEmpty: 비어 있음
+  purePlaceholder: 메뉴 검색
+panel:
+  pureSystemSet: 시스템 설정
+  pureCloseSystemSet: 시스템 설정 닫기
+  pureClearCacheAndToLogin: 캐시 지우고 로그인 페이지로 돌아가기
+  pureClearCache: 캐시 지우기
+  pureOverallStyle: 전체 스타일
+  pureOverallStyleLight: 밝은 모드
+  pureOverallStyleLightTip: 새롭고 편안한 작업 인터페이스를 밝힙니다.
+  pureOverallStyleDark: 어두운 모드
+  pureOverallStyleDarkTip: 달빛 서곡, 밤의 고요함과 우아함에 빠져보세요.
+  pureOverallStyleSystem: 자동
+  pureOverallStyleSystemTip: 시간과 동기화되어 아침과 저녁에 자연스럽게 반응합니다.
+  pureThemeColor: 테마 색상
+  pureLayoutModel: 레이아웃 모델
+  pureVerticalTip: 왼쪽 메뉴는 친숙하고 편안합니다.
+  pureHorizontalTip: 상단 메뉴는 간결한 개요를 제공합니다.
+  pureMixTip: 혼합 메뉴는 유연합니다.
+  pureStretch: 페이지 확장
+  pureStretchFixed: 고정
+  pureStretchFixedTip: 간결한 페이지는 필요한 정보를 쉽게 찾을 수 있게 합니다.
+  pureStretchCustom: 사용자 정의
+  pureStretchCustomTip: 최소 1280, 최대 1600
+  pureTagsStyle: 태그 스타일
+  pureTagsStyleSmart: 스마트
+  pureTagsStyleSmartTip: 스마트 태그는 재미와 활기를 더합니다.
+  pureTagsStyleCard: 카드
+  pureTagsStyleCardTip: 카드 태그는 효율적인 탐색을 제공합니다.
+  pureTagsStyleChrome: 크롬
+  pureTagsStyleChromeTip: 크롬 스타일은 클래식하고 우아합니다.
+  pureInterfaceDisplay: 인터페이스 표시
+  pureGreyModel: 회색 모드
+  pureWeakModel: 약한 모드
+  pureHiddenTags: 태그 숨기기
+  pureHiddenFooter: 푸터 숨기기
+  pureMultiTagsCache: 멀티 태그 캐시
+menus:
+  pureHome: 홈
+  pureLogin: 로그인
+  pureEmpty: 빈 페이지
+  pureTable: 테이블
+  pureSysManagement: 시스템 관리
+  pureUser: 사용자 관리
+  pureRole: 역할 관리
+  pureSystemMenu: 메뉴 관리
+  pureDept: 부서 관리
+  pureSysMonitor: 시스템 모니터링
+  pureOnlineUser: 온라인 사용자
+  pureLoginLog: 로그인 로그
+  pureOperationLog: 작업 로그
+  pureSystemLog: 시스템 로그
+  pureMarkdown: 마크다운
+  pureEditor: 에디터
+  pureAbnormal: 이상 페이지
+  pureFourZeroFour: "404"
+  pureFourZeroOne: "403"
+  pureFive: "500"
+  pureComponents: 구성 요소
+  pureDialog: 다이얼로그
+  pureDrawer: 서랍
+  pureMessage: 메시지 팁
+  pureVideo: 비디오
+  pureSegmented: 분할
+  pureWaterfall: 워터폴
+  pureMap: 지도
+  pureDraggable: 드래그 가능
+  pureSplitPane: 분할 창
+  pureText: 텍스트 생략
+  pureSlider: 슬라이더
+  pureElButton: 버튼
+  pureButton: 버튼 애니메이션
+  pureCheckButton: 확인 버튼
+  pureCropping: 이미지 자르기
+  pureAnimatecss: AnimateCss 선택기
+  pureCountTo: 디지털 애니메이션
+  pureSelector: 범위 선택기
+  pureFlowChart: 플로우 차트
+  pureSeamless: 무한 스크롤
+  pureContextmenu: 컨텍스트 메뉴
+  pureTypeit: 타이핑 효과
+  pureJsonEditor: JSON 에디터
+  pureColorPicker: 색상 선택기
+  pureDatePicker: 날짜 선택기
+  pureDateTimePicker: 날짜 및 시간 선택기
+  pureTimePicker: 시간 선택기
+  pureTag: 태그
+  pureStatistic: 통계
+  pureCollapse: 축소
+  pureGanttastic: 간트 차트
+  pureProgress: 진행률
+  pureUpload: 파일 업로드
+  pureCheckCard: 체크 카드
+  pureMenus: 다단계 메뉴
+  pureMenu1: 메뉴1
+  pureMenu1-1: 메뉴1-1
+  pureMenu1-2: 메뉴1-2
+  pureMenu1-2-1: 메뉴1-2-1
+  pureMenu1-2-2: 메뉴1-2-2
+  pureMenu1-3: 메뉴1-3
+  pureMenu2: 메뉴2
+  purePermission: 권한 관리
+  purePermissionPage: 페이지 권한
+  purePermissionButton: 버튼 권한
+  purePermissionButtonRouter: 라우터 반환 버튼 권한
+  purePermissionButtonLogin: 로그인 인터페이스 반환 버튼 권한
+  pureTabs: 탭 작업
+  pureGuide: 가이드
+  pureAble: 활성화
+  pureMenuTree: 메뉴 트리
+  pureVideoFrame: 비디오 프레임 캡처
+  pureWavesurfer: 오디오 시각화
+  pureRipple: 물결 효과
+  pureMqtt: MQTT 클라이언트
+  pureOptimize: 디바운스, 스로틀, 복사, 롱프레스 지시어
+  pureVerify: 캡차
+  pureWatermark: 워터마크
+  purePrint: 인쇄
+  pureDownload: 다운로드
+  pureExternalPage: 외부 페이지
+  pureExternalDoc: 외부 문서
+  pureEmbeddedDoc: 내장 문서
+  pureExternalLink: Vue-Pure-Admin
+  pureUtilsLink: Pure-Admin-Utils
+  pureColorHuntDoc: ColorHunt
+  pureUiGradients: UiGradients
+  pureEpDoc: Element-Plus
+  pureTailwindcssDoc: Tailwindcss
+  pureVueDoc: Vue3
+  pureViteDoc: Vite
+  purePiniaDoc: Pinia
+  pureRouterDoc: Vue-Router
+  pureAbout: 정보
+  pureResult: 결과 페이지
+  pureSuccess: 성공 페이지
+  pureFail: 실패 페이지
+  pureIconSelect: 아이콘 선택
+  pureTimeline: 타임라인
+  pureLineTree: 라인 트리
+  pureList: 목록 페이지
+  pureCardList: 카드 목록 페이지
+  pureDebounce: 디바운스 및 스로틀
+  pureFormDesign: 폼 디자인
+  pureBarcode: 바코드
+  pureQrcode: QR코드
+  pureCascader: 영역 계단형 선택기
+  pureSwiper: 스와이퍼 플러그인
+  pureVirtualList: 가상 리스트
+  purePdf: PDF 미리보기
+  pureExcel: 엑셀 내보내기
+  pureInfiniteScroll: 테이블 무한 스크롤
+  pureSensitive: 민감한 필터
+  purePinyin: 병음
+  pureDanmaku: 단막
+  pureSchemaForm: 폼
+  pureTableBase: 기본 사용법
+  pureTableHigh: 고급 사용법
+  pureTableEdit: 편집 사용법
+  pureVxeTable: 가상 사용법
+  pureBoard: 그림판
+  pureMindMap: 마인드 맵
+  pureMenuOverflow: 메뉴 오버플로우 도구팁 표시
+  pureChildMenuOverflow: 하위 메뉴 오버플로우 도구팁 표시
+  pureMyball: 마이볼!
+  pureGalaxy: 은하
+status:
+  pureLoad: 로딩 중...
+  pureMessage: 메시지
+  pureNotify: 알림
+  pureTodo: 할 일
+  pureNoMessage: 메시지 없음
+  pureNoNotify: 알림 없음
+  pureNoTodo: 할 일 없음
+login:
+  pureUsername: 사용자 이름
+  purePassword: 비밀번호
+  pureVerifyCode: 인증 코드
+  pureRemember: 로그인 필요 없음 기간
+  pureRememberInfo: 선택 및 로그인 후 지정된 일수 동안 사용자 이름과 비밀번호를 입력하지 않고 자동으로 로그인됩니다.
+  pureSure: 비밀번호 확인
+  pureForget: 비밀번호를 잊으셨나요?
+  pureLogin: 로그인
+  pureThirdLogin: 제3자 로그인
+  purePhoneLogin: 휴대폰 로그인
+  pureQRCodeLogin: QR코드 로그인
+  pureRegister: 회원가입
+  pureWeChatLogin: 위챗 로그인
+  pureAlipayLogin: 알리페이 로그인
+  pureQQLogin: QQ 로그인
+  pureWeiBoLogin: 웨이보 로그인
+  purePhone: 휴대폰
+  pureSmsVerifyCode: SMS 인증 코드
+  pureBack: 뒤로
+  pureTest: 모의 테스트
+  pureTip: 코드를 스캔한 후 "확인"을 클릭하여 로그인을 완료합니다.
+  pureDefinite: 확인
+  pureLoginSuccess: 로그인 성공
+  pureLoginFail: 로그인 실패
+  pureRegisterSuccess: 회원가입 성공
+  pureTickPrivacy: 개인정보 보호정책에 동의해주세요
+  pureReadAccept: 주의 깊게 읽고 동의합니다
+  purePrivacyPolicy: 개인정보 보호정책
+  pureGetVerifyCode: 인증 코드 받기
+  pureInfo: 초
+  pureUsernameReg: 사용자 이름을 입력해주세요
+  purePassWordReg: 비밀번호를 입력해주세요
+  pureVerifyCodeReg: 인증 코드를 입력해주세요
+  pureVerifyCodeCorrectReg: 올바른 인증 코드를 입력해주세요
+  pureVerifyCodeSixReg: 6자리 인증 코드를 입력해주세요
+  purePhoneReg: 휴대폰 번호를 입력해주세요
+  purePhoneCorrectReg: 올바른 휴대폰 번호 형식을 입력해주세요
+  purePassWordRuleReg: 비밀번호 형식은 8-18자리의 조합이어야 합니다
+  purePassWordSureReg: 비밀번호 확인을 입력해주세요
+  purePassWordDifferentReg: 두 비밀번호가 일치하지 않습니다!
+  purePassWordUpdateReg: 비밀번호가 업데이트되었습니다

@@ -14,7 +14,7 @@ const value2 = ref(dayjs().add(1, "month").startOf("month"));
 
 const source = ref(0);
 const outputValue = useTransition(source, {
-  duration: 1500
+  duration: 3500
 });
 source.value = 36000;
 

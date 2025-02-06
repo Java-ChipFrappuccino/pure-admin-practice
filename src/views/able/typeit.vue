@@ -6,7 +6,7 @@ defineOptions({
 });
 
 const options: TypeItOptions = {
-  strings: ["test1", "test2", "test3"]
+  strings: ["한글", "test2", "test3"]
 };
 </script>
 
